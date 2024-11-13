@@ -1,5 +1,5 @@
 ## Olá! Me chamo Flávio 
-- 🧑🏻‍🎓 Estudante do IFPR CRPG
+- 🧑🏽‍🎓 Estudante do IFPR CRPG
 - 🔭 Trabalhando no meu TCC
 - 🚀 Sempre buscando aprender mais!!!
 ##
