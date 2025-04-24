@@ -1,6 +1,6 @@
 ## Olá! Me chamo Flávio 
-- 🧑🏽‍🎓 Estudante do IFPR CRPG
-- 🔭 Trabalhando no meu TCC
+- 🧑🏽‍🎓 Formado em T.I pelo IFPR CRPG .
+- 🔭 Trabalhando no Madero e desenvolvendo projetos.
 - 🚀 Sempre buscando aprender mais!!!
 ##
 <div>
