@@ -1,6 +1,6 @@
 ## Olá! Me chamo Flávio 
 - 🧑🏽‍🎓 Formado em T.I pelo IFPR CRPG .
-- 🔭 Trabalhando no Madero e desenvolvendo projetos.
+- 🔭 Trabalhando no Grupo Madero e desenvolvendo projetos.
 - 🚀 Sempre buscando aprender mais!!!
 ##
 <div>
