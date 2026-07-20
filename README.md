@@ -3,7 +3,7 @@
 - 🔭 Atualmente trabalhando no Grupo Madero e focado em desenvolvimento Back-end.
 - 💻 Construindo projetos.
 - 📊 Experiência prática com análise de dados em Python e forte interesse em arquitetura de computadores.
-- 🤝 Desenvolvo materiais educacionais sobre programação, o que fortalece minha comunicação e compartilhamento de conhecimento.
+- 🤝 Desenvolvo materiais educacionais sobre programação.
 - 🚀 Sempre buscando aprender mais e pronto para novos desafios na área de tecnologia!
 
 ##
